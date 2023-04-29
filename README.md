@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azakinti
+- 👋 Hi, I’m kinti
 - 👀 I’m interested in kpop and anime
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C
 
 <!---
 azakinti/azakinti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
